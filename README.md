@@ -1,4 +1,4 @@
-# 🛡️ Fullstack Log Analyzer – Take-Home Project
+# 🛡️ Fullstack Log Analyzer –Project
 
 This is a full-stack cybersecurity log analysis tool developed as a take-home exercise. It allows users to upload log files, analyze them for suspicious activity, and view the results through a responsive web interface with anomaly detection capabilities.
 
