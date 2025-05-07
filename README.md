@@ -92,3 +92,18 @@ These are shown in the frontend table and highlighted in red.
 ** Example Log Files**
 "Mon Jun 20 15:29:11 2022","new-gre","HTTP","eby.com/","Blocked","Ebay","Consumer Apps","72","14061","0","0","Productivity Loss","Shopping and Auctions","Online Shopping","None","None","0","None","None","new-gre","Default Department","172.17.3.49","66.211.175.229","GET","403","curl/7.68.0","None","FwFilter","Firewall_1","Other","None","NA","NA","N/A"
 "Mon Jun 20 15:30:12 2022","admin","HTTP","google.com/","Allowed","Google","Search","90","2300","0","0","None","Search Engines","Web","None","None","0","None","None","admin","IT","192.168.0.15","172.217.3.110","GET","200","Mozilla/5.0","None","FwFilter","Firewall_1","Other","None","NA","NA","N/A"
+
+---
+🤖 Where I Used AI/LLMs in This Project
+I used an LLM (ChatGPT) during this project to enhance development speed and clarity. Here's how it helped:
+
+Code scaffolding:
+I used AI to generate starter templates and structure for:
+  The Flask backend (app.py)
+  The React file upload handler
+  The login and registration forms
+  Basic frontend styling and layout
+
+
+README.md generation:
+I used the LLM to help draft a clear, well-organized README.md, and then customized the content to match my actual implementation and project decisions.
