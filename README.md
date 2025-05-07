@@ -65,7 +65,7 @@ Frontend runs at http://localhost:3000
 
 ---
 
-🤖 AI Model / Anomaly Detection Logic
+## 🤖 AI Model / Anomaly Detection Logic
 No external ML model is used — this project uses rule-based AI logic for fast and explainable detection.
 
 Rules:
@@ -94,7 +94,7 @@ These are shown in the frontend table and highlighted in red.
 "Mon Jun 20 15:30:12 2022","admin","HTTP","google.com/","Allowed","Google","Search","90","2300","0","0","None","Search Engines","Web","None","None","0","None","None","admin","IT","192.168.0.15","172.217.3.110","GET","200","Mozilla/5.0","None","FwFilter","Firewall_1","Other","None","NA","NA","N/A"
 
 ---
-🤖 Where I Used AI/LLMs in This Project
+## 🤖 Where I Used AI/LLMs in This Project
 I used an LLM (ChatGPT) during this project to enhance development speed and clarity. Here's how it helped:
 
 Code scaffolding:
